@@ -2,3 +2,5 @@ transformers
 soundfile
 sounddevice
 librosa
+faker
+SentencePiece
